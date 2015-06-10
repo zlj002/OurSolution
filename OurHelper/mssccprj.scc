@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[OurHelper.sln]
+SCC_Aux_Path = "\\VENUSOFT8\vssdb"
+SCC_Project_Name = "$/OurHelper", ILEDAAAA
+
+[OurHelper.csproj]
+SCC_Aux_Path = "\\VENUSOFT8\vssdb"
+SCC_Project_Name = "$/OurSolution/OurHelper/OurSolution/OurHelper", STPDAAAA

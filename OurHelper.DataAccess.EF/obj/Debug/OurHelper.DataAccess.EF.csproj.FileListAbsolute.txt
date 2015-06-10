@@ -1,0 +1,17 @@
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.DataAccess.EF.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.DataAccess.EF.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\obj\Debug\OurHelper.DataAccess.EF.Properties.Resources.resources
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\obj\Debug\OurHelper.DataAccess.EF.csproj.GenerateResource.Cache
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\obj\Debug\OurHelper.DataAccess.EF.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\obj\Debug\OurHelper.DataAccess.EF.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\obj\Debug\OurHelper.DataAccess.EF.csprojResolveAssemblyReference.cache
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\EntityFramework.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\EntityFramework.SqlServer.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.DataAccess.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.Entity.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\Microsoft.Http.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.DataAccess.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.Entity.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.EF\bin\Debug\OurHelper.pdb

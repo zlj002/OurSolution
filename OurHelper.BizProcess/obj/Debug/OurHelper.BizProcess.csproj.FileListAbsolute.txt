@@ -1,0 +1,11 @@
+E:\workspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.csprojResolveAssemblyReference.cache
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.BizProcess.dll
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.BizProcess.pdb
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.DataAccess.dll
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.dll
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\Microsoft.Http.dll
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.DataAccess.pdb
+E:\workspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.pdb
+E:\workspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.dll
+E:\workspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.pdb

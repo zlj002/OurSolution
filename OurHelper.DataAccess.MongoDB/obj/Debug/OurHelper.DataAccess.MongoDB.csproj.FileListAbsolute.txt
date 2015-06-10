@@ -1,0 +1,13 @@
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.MongoDB.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.MongoDB.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\obj\Debug\OurHelper.DataAccess.MongoDB.csprojResolveAssemblyReference.cache
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\obj\Debug\OurHelper.DataAccess.MongoDB.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\obj\Debug\OurHelper.DataAccess.MongoDB.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\Microsoft.Http.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\MongoDB.dll
+E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\MongoDB.GridFS.dll

@@ -1,0 +1,17 @@
+E:\workspace\OurHelper\obj\Debug\OurHelper.csproj.ResolveComReference.cache
+E:\workspace\OurHelper\bin\Debug\OurHelper.dll
+E:\workspace\OurHelper\bin\Debug\OurHelper.pdb
+E:\workspace\OurHelper\bin\Debug\Microsoft.Http.dll
+E:\workspace\OurHelper\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\OurHelper\obj\Debug\OurHelper.dll
+E:\workspace\OurHelper\obj\Debug\OurHelper.pdb
+E:\workspace\OurHelper\bin\Debug\EntityFramework.dll
+E:\workspace\OurHelper\bin\Debug\EntityFramework.SqlServer.dll
+E:\workspace\OurHelper\obj\Debug\OurHelper.csprojResolveAssemblyReference.cache
+E:\workspace\OurSolution\OurHelper\bin\Debug\OurHelper.dll
+E:\workspace\OurSolution\OurHelper\bin\Debug\OurHelper.pdb
+E:\workspace\OurSolution\OurHelper\bin\Debug\Microsoft.Http.dll
+E:\workspace\OurSolution\OurHelper\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\OurSolution\OurHelper\obj\Debug\OurHelper.csproj.ResolveComReference.cache
+E:\workspace\OurSolution\OurHelper\obj\Debug\OurHelper.dll
+E:\workspace\OurSolution\OurHelper\obj\Debug\OurHelper.pdb

@@ -1,0 +1,9 @@
+E:\workspace\OurSolution\OurHelper.DataAccess\obj\Debug\OurHelper.DataAccess.csprojResolveAssemblyReference.cache
+E:\workspace\OurSolution\OurHelper.DataAccess\bin\Debug\OurHelper.DataAccess.dll
+E:\workspace\OurSolution\OurHelper.DataAccess\bin\Debug\OurHelper.DataAccess.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess\bin\Debug\OurHelper.dll
+E:\workspace\OurSolution\OurHelper.DataAccess\bin\Debug\Microsoft.Http.dll
+E:\workspace\OurSolution\OurHelper.DataAccess\bin\Debug\Newtonsoft.Json.dll
+E:\workspace\OurSolution\OurHelper.DataAccess\bin\Debug\OurHelper.pdb
+E:\workspace\OurSolution\OurHelper.DataAccess\obj\Debug\OurHelper.DataAccess.dll
+E:\workspace\OurSolution\OurHelper.DataAccess\obj\Debug\OurHelper.DataAccess.pdb
