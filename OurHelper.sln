@@ -1,10 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.21005.1
+VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Libs", "Libs", "{B4B628F9-5106-4825-9823-03FDD6ED76DA}"
 	ProjectSection(SolutionItems) = preProject
+		Libs\Aliyun.OSS.dll = Libs\Aliyun.OSS.dll
 		Libs\EntityFramework.dll = Libs\EntityFramework.dll
 		Libs\EntityFramework.SqlServer.dll = Libs\EntityFramework.SqlServer.dll
 		Libs\Microsoft.Http.dll = Libs\Microsoft.Http.dll
@@ -24,6 +25,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurHelper.DataAccess.EF", "OurHelper.DataAccess.EF\OurHelper.DataAccess.EF.csproj", "{BA457EC0-2AFB-45BB-8A21-0FAB1E95C2AE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurHelper.DataAccess.MongoDB", "OurHelper.DataAccess.MongoDB\OurHelper.DataAccess.MongoDB.csproj", "{98DC6BEF-D925-4037-A414-A7958BD53B76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OurHelper.Plugins", "OurHelper.Plugins\OurHelper.Plugins.csproj", "{5F3F67AD-1EB7-4700-BDB5-6A305153D414}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -55,6 +58,10 @@ Global
 		{98DC6BEF-D925-4037-A414-A7958BD53B76}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{98DC6BEF-D925-4037-A414-A7958BD53B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{98DC6BEF-D925-4037-A414-A7958BD53B76}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F3F67AD-1EB7-4700-BDB5-6A305153D414}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F3F67AD-1EB7-4700-BDB5-6A305153D414}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F3F67AD-1EB7-4700-BDB5-6A305153D414}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F3F67AD-1EB7-4700-BDB5-6A305153D414}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

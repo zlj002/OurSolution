@@ -2,3 +2,7 @@ E:\workspace\OurSolution\OurHelper.Entity\bin\Debug\OurHelper.Entity.dll
 E:\workspace\OurSolution\OurHelper.Entity\bin\Debug\OurHelper.Entity.pdb
 E:\workspace\OurSolution\OurHelper.Entity\obj\Debug\OurHelper.Entity.dll
 E:\workspace\OurSolution\OurHelper.Entity\obj\Debug\OurHelper.Entity.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper.Entity\bin\Debug\OurHelper.Entity.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.Entity\bin\Debug\OurHelper.Entity.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper.Entity\obj\Debug\OurHelper.Entity.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.Entity\obj\Debug\OurHelper.Entity.pdb
