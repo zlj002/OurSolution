@@ -11,3 +11,16 @@ E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAc
 E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.pdb
 E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\MongoDB.dll
 E:\workspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\MongoDB.GridFS.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.MongoDB.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.MongoDB.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\MongoDB.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\MongoDB.GridFS.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\Microsoft.Http.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.DataAccess.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\bin\Debug\OurHelper.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\obj\Debug\OurHelper.DataAccess.MongoDB.csprojResolveAssemblyReference.cache
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\obj\Debug\OurHelper.DataAccess.MongoDB.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.DataAccess.MongoDB\obj\Debug\OurHelper.DataAccess.MongoDB.pdb

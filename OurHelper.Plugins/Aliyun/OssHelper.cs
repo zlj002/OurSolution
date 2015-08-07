@@ -34,7 +34,7 @@ namespace OurHelper.Plugins.Aliyun
         {
             try
             { 
-                OssClient client = new OssClient(this._endpoint,this._aliyunkeyid, this._aliyunkeysecret); 
+                OssClient client = new OssClient(new Uri(this._endpoint),this._aliyunkeyid, this._aliyunkeysecret); 
                 PutObjectResult putResult = client.PutObject(this._bucketname, fileName, imageContent, meta);
                 var resulturl = this._customDomain.TrimEnd('/') + "/" + fileName;
                 return resulturl;

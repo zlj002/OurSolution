@@ -15,3 +15,11 @@ E:\workspace\OurSolution\OurHelper\bin\Debug\Newtonsoft.Json.dll
 E:\workspace\OurSolution\OurHelper\obj\Debug\OurHelper.csproj.ResolveComReference.cache
 E:\workspace\OurSolution\OurHelper\obj\Debug\OurHelper.dll
 E:\workspace\OurSolution\OurHelper\obj\Debug\OurHelper.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper\bin\Debug\OurHelper.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper\bin\Debug\OurHelper.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper\bin\Debug\Microsoft.Http.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper\bin\Debug\Newtonsoft.Json.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper\obj\Debug\OurHelper.csprojResolveAssemblyReference.cache
+D:\workspace\githubworkspace\OurSolution\OurHelper\obj\Debug\OurHelper.csproj.ResolveComReference.cache
+D:\workspace\githubworkspace\OurSolution\OurHelper\obj\Debug\OurHelper.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper\obj\Debug\OurHelper.pdb
