@@ -14,8 +14,10 @@ namespace OurHelper.Plugins.Aliyun
         private string _aliyunkeysecret;
         private string _bucketname;
         private string _customDomain;
-        public OssHelper(string aliyunKeyID, string aliyunKeySecret,string bucketName, string customDomain)
+        private string _endpoint;
+        public OssHelper(string endpoint, string aliyunKeyID, string aliyunKeySecret, string bucketName, string customDomain)
         {
+            this._endpoint = endpoint;
             this._aliyunkeyid = aliyunKeyID;
             this._aliyunkeysecret = aliyunKeySecret;
             this._bucketname = bucketName;
@@ -32,7 +34,7 @@ namespace OurHelper.Plugins.Aliyun
         {
             try
             { 
-                OssClient client = new OssClient(this._aliyunkeyid, this._aliyunkeysecret); 
+                OssClient client = new OssClient(this._endpoint,this._aliyunkeyid, this._aliyunkeysecret); 
                 PutObjectResult putResult = client.PutObject(this._bucketname, fileName, imageContent, meta);
                 var resulturl = this._customDomain.TrimEnd('/') + "/" + fileName;
                 return resulturl;
