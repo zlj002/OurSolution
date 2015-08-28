@@ -18,7 +18,7 @@ namespace OurHelper.DataAccess.MySqlEF.Repository
     /// 本类为数据库访问层对Service 提供操作方法的具体实现
     /// </summary>
     /// <typeparam name="T"></typeparam>
-    public abstract class RepositoryBase<T> : IRepository<T> where T : class,new()
+    public abstract class MySqlRepositoryBase<T> : IRepository<T> where T : class,new()
     {
         /// <summary>
         /// 数据库操作
@@ -34,13 +34,13 @@ namespace OurHelper.DataAccess.MySqlEF.Repository
             set;
         }
 
-        public RepositoryBase()
+        public MySqlRepositoryBase()
         {
         }
         /// <summary>
         /// 默认构造
         /// </summary>
-        public RepositoryBase(DbContext dbContext)
+        public MySqlRepositoryBase(DbContext dbContext)
         {
             this.context = dbContext;
         }
