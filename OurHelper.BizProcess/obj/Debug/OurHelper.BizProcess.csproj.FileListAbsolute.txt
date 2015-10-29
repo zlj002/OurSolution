@@ -11,12 +11,12 @@ E:\workspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.dll
 E:\workspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.pdb
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.BizProcess.dll
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.BizProcess.pdb
-D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.DataAccess.dll
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.dll
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\Microsoft.Http.dll
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\Newtonsoft.Json.dll
-D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.DataAccess.pdb
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.pdb
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.csprojResolveAssemblyReference.cache
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.dll
 D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\obj\Debug\OurHelper.BizProcess.pdb
+D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.Api.dll
+D:\workspace\githubworkspace\OurSolution\OurHelper.BizProcess\bin\Debug\OurHelper.Api.pdb

@@ -1,4 +1,5 @@
 ﻿using OurHelper;
+using OurHelper.Api.Param;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -6,43 +7,33 @@ using System.Text;
 
 namespace OurHelper.BizProcess.Base.Interface
 {
-    public interface IBaseService<T> where T : class, new()
+    public interface IBaseService
     {
-        /// <summary>
-        /// 更新一个实例 
-        /// </summary>
-        /// <param name="entity"></param>
-        /// <returns></returns>
-        T Update(T entity);
-
-        /// <summary>
-        /// 插入一个实例 
-        /// </summary>
-        /// <param name="entity"></param>
-        /// <returns></returns>
-        T Insert(T entity);
-
-        /// <summary>
-        /// 批量插入对象
-        /// </summary>
-        /// <param name="list"></param>
-        /// <returns></returns>
-        int InsertBatchBySql(List<T> list);
-         
-
-        /// <summary>
-        /// 根据列名和值获取对象，（取第一个）
-        /// </summary>
-        /// <param name="colName"></param>
-        /// <param name="colVal"></param>
-        /// <returns></returns>
-        T GetEntityByColNameAndColValue(string colName, object colVal);
-
-        /// <summary>
-        /// 通用分页
-        /// </summary>
-        /// <param name="requestQuery"></param>
-        /// <returns></returns>
-        PageHelper<T> GetListPage(PageHelper<T> pageQuery);
+        /*
+         * 关于验证的层次
+             
+         * 第一层 UI层验证表单数据格式有效性，增加用户体验，友好提示
+            
+         * =========================================================
+            
+         * 第二层 控制转发层进行以下验证  
+            
+         * 1--身份（是否登录） 
+            
+         * 2--真实性 防止篡改
+            
+         * 3--防止重复
+            
+         * =========================================================
+            
+         * 第三层 逻辑层进行参数的基本验证和数据逻辑关系验证          本层控制
+            
+         * 1--格式（是否符合规定）
+            
+         * 2--数据逻辑关系验证
+            
+         * =========================================================
+           第四层 数据库系统约束物理数据的有效性
+         */
     }
 }

@@ -4,21 +4,13 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{6ADF6D6C-88E7-49E7-A3E2-05EAF4F96152}</ProjectGuid>
+    <ProjectGuid>{E513EE92-49DB-4683-A732-D4702F7C09AA}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>OurHelper.BizProcess</RootNamespace>
-    <AssemblyName>OurHelper.BizProcess</AssemblyName>
+    <RootNamespace>OurHelper.Api</RootNamespace>
+    <AssemblyName>OurHelper.Api</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <SccProjectName>
-    </SccProjectName>
-    <SccLocalPath>
-    </SccLocalPath>
-    <SccAuxPath>
-    </SccAuxPath>
-    <SccProvider>
-    </SccProvider>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -47,20 +39,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Base\Interface\IBaseService.cs" />
-    <Compile Include="Base\Service\BaseService.cs" />
+    <Compile Include="Param\ApiParameter.cs" />
+    <Compile Include="Param\AuthParameter.cs" />
+    <Compile Include="Param\PagingParameter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result\ApiResult.cs" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\OurHelper.Api\OurHelper.Api.csproj">
-      <Project>{e513ee92-49db-4683-a732-d4702f7c09aa}</Project>
-      <Name>OurHelper.Api</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\OurHelper\OurHelper.csproj">
-      <Project>{9a761907-0a38-42c9-86b4-32b28dfd5918}</Project>
-      <Name>OurHelper</Name>
-    </ProjectReference>
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
