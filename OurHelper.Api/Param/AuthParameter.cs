@@ -6,16 +6,14 @@ using System.Threading.Tasks;
 
 namespace OurHelper.Api.Param
 {
+    /// <summary>
+    /// 带身份验证的参数
+    /// </summary>
     [Serializable]
     public class AuthParameter : ApiParameter
-    {
+    { 
         /// <summary>
-        /// SessionID,登录成功后 sessionid 记录，后期访问需要
-        /// </summary>
-        public Guid SessionID { get; set; }
-
-        /// <summary>
-        /// Token,防止重复提交
+        /// Token,防止篡改重复提交
         /// </summary>
         public Guid Token { get; set; }
 

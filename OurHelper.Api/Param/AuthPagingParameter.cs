@@ -7,10 +7,10 @@ using System.Threading.Tasks;
 namespace OurHelper.Api.Param
 {
     /// <summary>
-    /// 游客分页参数
+    /// 带身份验证的分页参数
     /// </summary>
     [Serializable]
-    public class PagingParameter : ApiParameter
+    public class AuthPagingParameter : AuthParameter
     {
         /// <summary>
         /// 页码
@@ -21,7 +21,7 @@ namespace OurHelper.Api.Param
         /// </summary>
         public int PageSize { get; set; }
 
-        public PagingParameter()
+        public AuthPagingParameter()
         {
             this.PageIndex = 1;
             this.PageSize = 10;
