@@ -223,7 +223,8 @@ namespace OurHelper.DataAccess.MongoDB.Repository
 
                     pageQuery.TotalCount = Convert.ToInt32(collection.Find(func).Documents.Count());
 
-                    var personList = collection.Find(func, pageQuery.PageSize, pageQuery.PageSize * (pageQuery.PageIndex - 1));
+                    //var personList = collection.Find(func, pageQuery.PageSize, pageQuery.PageSize * (pageQuery.PageIndex - 1));
+                    var personList = collection.Find(func).Limit(pageQuery.PageSize).Skip(pageQuery.PageSize * (pageQuery.PageIndex - 1));
                     pageQuery.Data = personList.Documents.ToList();
 
                     mongo.Disconnect();

@@ -26,7 +26,7 @@ namespace ClientProxy
                 ChannelFactory<T> factory = new ChannelFactory<T>(binding, address);
                 return factory.CreateChannel();
             }
-            catch (Exception ex)
+            catch 
             {
                 throw new Exception("创建服务工厂出现异常.");
             }
