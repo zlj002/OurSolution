@@ -48,6 +48,7 @@
     <Compile Include="Param\AuthPagingParameter.cs" />
     <Compile Include="Param\PagingParameter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Result\PagingResult.cs" />
     <Compile Include="Result\ApiResult.cs" />
   </ItemGroup>
   <ItemGroup>
